@@ -1,0 +1,14 @@
+{
+    "name": "oop-typescript",
+    "version": "0.0.1",
+    "description": "OOP Typescript for KMITL classroom",
+    "keywords": [
+        "tsc",
+        "oop",
+        "kmitl"
+    ],
+    "license": "ISC",
+    "author": "viruskizz",
+    "dependencies": {},
+    "devDependencies": {}
+} 
