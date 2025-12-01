@@ -7,4 +7,3 @@ console.log(`Name: ${name}`);
 console.log("Age:", age);
 console.log("Math:",5+10);
 console.log("Name :",name);
-console.log("asin");
